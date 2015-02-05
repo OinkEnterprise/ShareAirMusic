@@ -24,6 +24,8 @@ En el se encuentra:
 
 Para probar la aplicación se recomienda utilizar el que está orientado al usuario final, "ShareAirMucisCliente.jar", en el cual ya se encuentran introducidos mediante un programa en Java una serie de usuarios, instrumentos y sets. Debido a que las consultas poseen archivos multimedia puede tardar un poco en procesarlo el cliente, se ruega que se tenga paciencia.
 
+El cliente está diseñado de manera óptimizada para una pantalla widescreen de 1920x1080, por lo que se recomienda usarlo de esa manera. En el caso de ejecutarlo en una pantalla con menor resolución, este intentará adaptarse a la misma, aunque no se asegura que todo se vea perfectamente.   
+
 Los usuarios y sus contraseñas son:
 - Usuario: lena | Contraseña: 123lena
 - Usuario: paquirrin | Contraseña: 123paquirrin
